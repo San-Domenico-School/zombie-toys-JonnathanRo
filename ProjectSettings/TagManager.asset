@@ -8,10 +8,10 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Layer A
   - Water
   - UI
-  - 
+  - Layer B
   - 
   - Floor
   - Shootable
